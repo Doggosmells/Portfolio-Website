@@ -1,0 +1,33 @@
+/**{
+    border: solid;
+}*/
+img{
+    width:300px;
+    height:300px;
+}
+.logo{
+    width:100px;
+    height:100px;
+}   
+.Header{
+    background-color: red;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
+.menu{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 10px;
+}
